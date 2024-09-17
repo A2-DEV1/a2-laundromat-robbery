@@ -1,5 +1,8 @@
 # a2-laundromat-robbery
 
+# Preview 
+https://www.youtube.com/watch?v=J6cQz-U0OCM&ab_channel=A2GAMING
+
 # Requires 
 
 - [qb-core](https://github.com/qbcore-framework/qb-core)
